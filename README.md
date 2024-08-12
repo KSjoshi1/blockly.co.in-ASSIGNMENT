@@ -1,4 +1,4 @@
-# Install Node.js and npm.Ensure you have Node.js and npm inatalled on your mach
+# Full-Stack Developer Assignment: Vehicle Movement on a Map
 
 **Objective:
 Create a web application that displays a vehicle moving on a map using either Google Maps or an alternative mapping library. The application should show the vehicle's current location and its path in real-time.**
