@@ -1,5 +1,16 @@
 # Install Node.js and npm.Ensure you have Node.js and npm inatalled on your mach
 
+**Objective:
+Create a web application that displays a vehicle moving on a map using either Google Maps or an alternative mapping library. The application should show the vehicle's current location and its path in real-time.**
+
+### Frontend:
+
+- Use Google Maps or an alternative mapping library (e.g., Leaflet).
+- Display a vehicle icon on the map.
+- Show the vehicle's movement in real-time, updating every few seconds.
+- Draw the route the vehicle is taking on the map.
+
+
 **Bckend**
 . Provide an API endpoint that supplies the vehicle's current location and route data.
 .Implement a simple server using Node.js/Express.
